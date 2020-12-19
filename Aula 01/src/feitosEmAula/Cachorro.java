@@ -1,4 +1,4 @@
-package Main;
+package feitosEmAula;
 
 public class Cachorro {
 	// Creating Attributes // 
