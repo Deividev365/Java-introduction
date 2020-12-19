@@ -16,7 +16,7 @@ public class Cachorro {
 	public void latir() {
 		
 		if(height > 60) {
-			System.out.println("Latido Forte!!");
+			System.out.println("Latido For!!");
 		} else if(height > 25 ) {
 			System.out.println("Latido Medio!!");
 		} else {
