@@ -9,8 +9,18 @@ public class Pessoa {
 	int height;
 	String eyeColor;
 	
-	// defining methods
-	public void speak() {
-		
+	public Pessoa(String name) {
+		this.name = name;
 	}
+	
+	// defining methods
+	public void falar() {
+		System.out.println("Humanos Falam");
+	}
+	
+	public void andar() {
+		
+		System.out.println("Humanos Andam");
+	}
+
 }
