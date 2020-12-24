@@ -9,6 +9,7 @@ public class Pessoa {
 	int height;
 	String eyeColor;
 	
+	// constructor method // 
 	public Pessoa(String name) {
 		this.name = name;
 	}

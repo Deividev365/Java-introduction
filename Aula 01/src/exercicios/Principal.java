@@ -17,6 +17,22 @@ public class Principal {
 			younger.falar();
 			
 			
+			Pessoa older = new Pessoa("Jose");
+			
+			older.age = 60;
+			older.eyeColor = "Green";
+			older.gender = "Male";
+			
+			
+			System.out.println("Meu nome é " + older.name + " e eu tenho" + older.age + " anos");
+			
+			older.andar();
+			older.falar();
+			
+			
+			
+			
+			
 			
 			
 	}
